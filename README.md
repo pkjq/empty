@@ -1,4 +1,4 @@
-# A blank Mongoose OS app
+# A Mongoose OS app skeleton
 
 ## Overview
 
@@ -10,6 +10,10 @@ apps from scratch.
 - Install and start [mos tool](https://mongoose-os.com/software.html)
 - Switch to the Project page, find and import this app, build and flash it:
 
-<p align="center">
-  <img src="https://mongoose-os.com/images/app1.gif" width="75%">
-</p>
+- This skeleton contains libraries:
+* WiFi
+* MQTT
+* RPC over UART
+* RPC over MQTT
+* RPC FS
+* OTA over http

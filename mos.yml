@@ -74,6 +74,9 @@ libs:
 # OTA over http post
   - origin: https://github.com/mongoose-os-libs/ota-http-server
 
+# JS
+  - origin: https://github.com/mongoose-os-libs/mjs
+
 
 # Used by the mos tool to catch mos binaries incompatible with this file format
 manifest_version: 2017-09-29

@@ -11,9 +11,10 @@ apps from scratch.
 - Switch to the Project page, find and import this app, build and flash it:
 
 - This skeleton contains libraries:
-* WiFi
-* MQTT
-* RPC over UART
-* RPC over MQTT
-* RPC FS
-* OTA over http
+  * WiFi
+  * MQTT
+  * RPC over UART
+  * RPC over MQTT
+  * RPC FS
+  * OTA over http
+  * mJS
